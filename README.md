@@ -1,5 +1,10 @@
 Satyendra Kumar Yadav- 
 Internship at The Spark Foundation ( DATA SCIENCE AND MACHNINE LEARNING)
+
+# TASK_1 Improve your LinkedIn Profile
+here is my LinkedIn profile link : https://www.linkedin.com/in/satyendra9108/
+take a visit to this link and you will observe changes about my profile
+
 # TASK_2   LINEAR-REGRESSION
 To Explore Supervised Machine Learning
 
